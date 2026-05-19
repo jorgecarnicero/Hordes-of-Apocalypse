@@ -89,6 +89,7 @@ git clone https://github.com/jorgecarnicero/Hordes-of-Apocalypse.git
 cd Hordes-of-Apocalypse/unity_project/builds
 ```
 3. Ejecutar el juego
+
 Puedes hacer doble clic directamente sobre el archivo HordesOfApocalypse.exe en tu explorador de archivos, o ejecutarlo desde la terminal:
 ```text
 ./HordesOfApocalypse.exe
