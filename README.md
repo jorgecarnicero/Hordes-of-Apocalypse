@@ -75,7 +75,7 @@ El proyecto ha sido diseñado siguiendo una arquitectura modular dividida en cap
 ### 🚀 Pasos para ejecutar
 **Estructura del directorio:**
 ```text
-📦 nombre-del-repo
+📦 Hordes-of-Apocalypse
  ┣ 📂 unity_project
  ┃ ┗ 📂 builds
  ┃   ┗ 🎮 HordesOfApocalypse.exe
