@@ -72,12 +72,27 @@ El proyecto ha sido diseñado siguiendo una arquitectura modular dividida en cap
 
 **Versión del Motor:** Unity 6000.2.6f2
 
-### Pasos para ejecutar:
-1.  Clonar este repositorio en tu equipo local.
-2.  Añadir el proyecto a **Unity Hub**.
-3.  Asegurarse de que los paquetes de **ML-Agents** estén correctamente instalados si se desea entrenar la IA (opcional para solo jugar).
-4.  Abrir la escena `MainMenu` ubicada en la carpeta de escenas.
-5.  Presionar **Play**.
+### 🚀 Pasos para ejecutar
+**Estructura del directorio:**
+```text
+📦 nombre-del-repo
+ ┣ 📂 unity_project
+ ┃ ┗ 📂 builds
+ ┃   ┗ 🎮 HordesOfApocalypse.exe
+```
+1. Clonar el repositorio en tu equipo local
+```text
+git clone https://github.com/jorgecarnicero/Hordes-of-Apocalypse.git
+```
+3. Navegar hasta la carpeta de la build
+```text
+cd Hordes-of-Apocalypse/unity_project/builds
+```
+3. Ejecutar el juego
+Puedes hacer doble clic directamente sobre el archivo HordesOfApocalypse.exe en tu explorador de archivos, o ejecutarlo desde la terminal:
+```text
+./HordesOfApocalypse.exe
+```
 
 ## 👥 Autores
 
